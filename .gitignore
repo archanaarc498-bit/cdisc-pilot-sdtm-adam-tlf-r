@@ -1,0 +1,8 @@
+data/
+.Rhistory
+.Rproj.user/
+# regenerated locally when the project is run; not stored in the repository
+output/adsl.csv
+output/advs.csv
+output/adae.csv
+output/*_data.csv

@@ -1,4 +1,4 @@
-# CDISC Pilot 01: SDTM checks, ADaM (ADSL, ADVS) and TLFs in R
+# CDISC Pilot 01: SDTM checks, ADaM (ADSL, ADVS, ADAE) and TLFs in R
 
 A small, reproducible workflow in R that starts from the public CDISC Pilot 01 SDTM data and ends with analysis datasets and tables, listings and figures (TLFs). It is a learning and portfolio project that follows the CDISC SDTM, ADaM and TLF steps.
 

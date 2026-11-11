@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# generated output tables should not count towards the repository language
+output/*.html linguist-generated=true
